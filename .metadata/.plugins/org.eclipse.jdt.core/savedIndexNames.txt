@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\USER\Desktop\SE-OOP-2023-S2-MLB-WD-G177_ Online School Information Management System\.metadata\.plugins\org.eclipse.jdt.core
-680785405.index
-1865797976.index

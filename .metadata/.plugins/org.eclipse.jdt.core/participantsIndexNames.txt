@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-C:\Users\acer\Desktop\SE-OOP-2023-S2-MLB-WD-G177_ Online School Information Management System\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\12333545.index
-\oism\src\main\java
