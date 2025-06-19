@@ -1,6 +1,6 @@
 # Automobile-Loan-Default-Prediction-System
 
-![Car Image](https://raw.githubusercontent.com/Poorna-Kaushalya-Gamage/Automobile-Loan-Default-Prediction-System/4fe47bc87d2b478c8274f644023536b43b18af76/static/Car1.png)
+![Car Image](https://github.com/Poorna-Kaushalya/Automobile-Loan-Default-Prediction-System/blob/1b00f804c34ad047c09a1cf2c2f609c3e213a18a/static/Car1.png)
 ### Project Overview
 
 This project focuses on predicting loan defaults for a Non-Banking Financial Institution (NBFI), specifically targeting vehicle loans. The aim is to help NBFIs enhance their risk assessment models to better understand the financial strength of borrowers and reduce the likelihood of loan defaults. By implementing predictive analytics, the system evaluates key factors like income, loan amount, and credit history to predict whether a client will default on their loan. This will enable NBFIs to make more informed lending decisions, reducing financial risks and improving profitability.
@@ -67,11 +67,11 @@ With rising economic challenges such as inflation, financial crises, and increas
 
 ### Demo
 ```
-https://automobile-loan-default-prediction-system-xujqfzrxxmbapkvhz3hu.streamlit.app/
+https://automobile-loan-default-prediction-system-2dfdz3pkgnu8yusteefd.streamlit.app/
 ```
 
 ### Ui Designs
-![UI 1](https://github.com/Poorna-Kaushalya-Gamage/Automobile-Loan-Default-Prediction-System/blob/f2373d445e90ddef5480b3767bef9bff7542b19e/static/UI%201.png)
-![UI 2](https://github.com/Poorna-Kaushalya-Gamage/Automobile-Loan-Default-Prediction-System/blob/f2373d445e90ddef5480b3767bef9bff7542b19e/static/UI%202.png)
+![UI 1](https://github.com/Poorna-Kaushalya/Automobile-Loan-Default-Prediction-System/blob/1b00f804c34ad047c09a1cf2c2f609c3e213a18a/static/UI%201.png)
+![UI 2](https://github.com/Poorna-Kaushalya/Automobile-Loan-Default-Prediction-System/blob/1b00f804c34ad047c09a1cf2c2f609c3e213a18a/static/UI%202.png)
 
 Let me know if you need any further modifications or additional help!
