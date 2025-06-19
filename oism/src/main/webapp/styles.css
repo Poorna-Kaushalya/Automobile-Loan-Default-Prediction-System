@@ -1,0 +1,255 @@
+@charset "ISO-8859-1";
+/* search */
+body {
+    background-color: #A7D397;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    background-color: #D0D4CA;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 350px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    color: DE8F5F;
+}
+
+.form-control {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #BEADFA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: darkblue;
+}
+
+/* upload marks */
+body {
+    background-color: #333; /* Dark gray background */
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #fff; /* White container background */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    color: #f00; /* Red label text */
+}
+
+.form-control {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #f00; /* Red border */
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #00f; /* Blue button background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #002; /* Dark blue on hover */
+}
+ /*update */
+ body {
+    background-color: #333; /* Dark gray background */
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #fff; /* White container background */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    color: #f00; /* Red label text */
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #f00; /* Red border */
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #00f; /* Blue button background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #002; /* Dark blue on hover */
+}
+ /*resultsheet */
+ 
+ body {
+    background-color: #333; /* Dark gray background */
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #fff; /* White container background */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    padding: 8px 12px;
+}
+
+table th {
+    background-color: #00f; /* Blue background for table headers */
+    color: white;
+}
+
+th,
+td {
+    border: 1px solid #00f; /* Blue border for table cells */
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+input[type="button"] {
+    background-color: #00f; /* Blue button background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #002; /* Dark blue on hover */
+}
+
+/*dalete */
+body {
+    background-color: #333; /* Dark gray background */
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #fff; /* White container background */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+h1 {
+    color: #00f; /* Blue header text */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    color: #f00; /* Red label text */
+}
+
+.form-control {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #f00; /* Red border */
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #f00; /* Red button background */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #c00; /* Dark red on hover */
+}
+
+td {
+	color: #000000
+}
